@@ -1,0 +1,2 @@
+module CustomControl
+CustomButton 1.0 ./controls/CustomButton.qml

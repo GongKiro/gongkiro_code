@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomControl/controls/arena_over.png</file>
+        <file>CustomControl/controls/camera.png</file>
+    </qresource>
+</RCC>
